@@ -2,8 +2,6 @@
 
 A beautiful, responsive portfolio website built with React, TypeScript, and Vite. Fully customizable through a simple YAML configuration file.
 
-![Portfolio Preview](./you-can-delete-that/main-preview.png)
-
 ## ✨ Features
 
 - 🎨 **Modern Design** - Clean, professional interface with smooth animations
@@ -190,3 +188,4 @@ If this template helped you, please give it a ⭐ on GitHub!
 ---
 
 **Made with ❤️ by me**
+
