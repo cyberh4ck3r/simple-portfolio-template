@@ -22,7 +22,7 @@ A beautiful, responsive portfolio website built with React, TypeScript, and Vite
 ![Main Page](./you-can-delete-that/main-page.png)
 
 ### About Modal
-![About Modal](./you-can-delete-that/about-modal.png)
+![About Modal](./you-can-delete-that/aboutme-modal.png)
 
 ### Socials Modal
 ![Socials Modal](./you-can-delete-that/socials-modal.png)
@@ -189,4 +189,4 @@ If this template helped you, please give it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by me**
