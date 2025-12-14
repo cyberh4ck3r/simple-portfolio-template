@@ -187,5 +187,6 @@ If this template helped you, please give it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ by me**
+**Made with ❤️ by me (cyberh4ck3r)**
+
 
