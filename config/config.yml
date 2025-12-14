@@ -1,0 +1,67 @@
+# ===================================================================
+# SETTINGS
+# ===================================================================
+
+# [REQUIRED] Your name displayed on the website
+# This will appear in "Hi, I'm [NAME]."
+NAME: "Ben"
+
+# [REQUIRED] Format of the user icon file
+# The icon file must be named 'usericon' with the specified extension
+# Available options: 'PNG', 'JPG', 'GIF'
+ICON_FORMAT: "PNG"
+
+# [OPTIONAL] Google Font family for the website
+# You can use any Google Font name (case-sensitive)
+# Popular choices: "Inter", "Roboto", "Open Sans", "Poppins", "Montserrat"
+# Leave empty to use system default fonts
+GOOGLE_FONT: "Cause"
+
+# ===================================================================
+# ABOUTME SETTINGS
+# ===================================================================
+
+# [OPTIONAL] About Me modal content
+ABOUT_ME_CONTENT: |
+  Thank you for using my template portfolio! 
+  
+  You can change this text in config/config.yml and replace it with your own information.
+  
+  Here you can write about yourself, share your experiences, or whatever you want!
+
+# [OPTIONAL] Text alignment for About Me
+# Available options: "left", "center", "right"
+ABOUT_ME_ALIGN: "left"
+
+# ===================================================================
+# SOCIALS SETTINGS
+# ===================================================================
+
+# [OPTIONAL] Socials modal content  
+SOCIALS_CONTENT: "If you'd like to connect with me, you can find me on the following platforms:"
+
+# [OPTIONAL] Text alignment for Socials
+# Available options: "left", "center", "right"
+SOCIALS_ALIGN: "center"
+
+# [OPTIONAL] Social Media Buttons (maximum 5 buttons supported)
+# Each button needs: name, url, and icon (emoji, text, or image URL)
+# For images: use full URL like "https://i.imgur.com/example.png"
+SOCIAL_BUTTONS:
+  - name: "GitHub" 
+    url: "https://github.com/cyberh4ck3r"
+    icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
+
+# ===================================================================
+# PROJECTS SETTINGS
+# ===================================================================
+
+# [OPTIONAL] Projects (maximum 5 projects supported)
+# Each project needs: icon, title, description, period, and url
+# Icon can be emoji, text, or image URL
+PROJECTS:
+  - icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
+    title: "Portfolio Website"
+    description: "This responsive portfolio website you're currently viewing."
+    period: "2025/dec"
+    url: "https://github.com/cyberh4ck3r"
